@@ -7,6 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Incredible To Do App';
+  name = 'Ellen Woodward';
+  id = 's00222321';
   thingsToDo = [
     'Learn Javascript',
     'Learn Angular',
